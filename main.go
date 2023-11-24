@@ -110,3 +110,6 @@ func handleRequest(conn net.Conn) {
 		}
 	}
 }
+
+//Bootstrap Node added
+//Peer2Peer added
