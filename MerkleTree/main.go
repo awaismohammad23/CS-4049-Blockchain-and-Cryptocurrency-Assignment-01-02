@@ -1,8 +1,8 @@
 package MerkleTree
 
 import (
-	"awesomeProject3/Hashing"
 	"fmt"
+	"i200547_BlockchainCrypto/Hashing"
 )
 
 type MerkleTree struct {
