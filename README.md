@@ -1,6 +1,11 @@
 # CS-4049-Blockchain-and-Cryptocurrency-Assignment-01-02
 The project consists of two parts named as assignments in the following. The first assignment focuses on the blockchain features related to a single peer. The second assignment is related to network features.
 
+Member1: Awais Mohammad
+Member2: Muhammad Hammad Irfan
+Member3: Kashan Altaf
+Member4: Tayyab Imtiaz
+
 **Assignment 1** [100 marks]
 1. Create a New Block [10 marks]
 A method to create a new block. To keep things simple, each transaction can be a simple string
