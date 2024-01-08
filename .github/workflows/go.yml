@@ -20,7 +20,6 @@ jobs:
 
     - name: Build Docker image
       run: |
-        go mod init github.com/${{ secrets.DOCKER_HUB_USERNAME }}/blockchain-assignment-1-2
         go build -o myapp
         docker build -t ${{ secrets.DOCKER_HUB_USERNAME }}/blockchain-assignment-1-2:latest -t ${{ secrets.DOCKER_HUB_USERNAME }}/blockchain-assignment-1-2:${{ github.sha }} .
 
